@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="DELETE">
+        <background_color/>
+        <cache_expiration_time>0</cache_expiration_time>
+        <card_bg_image/>
+        <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
+        <created_on>2026-06-03 10:50:36</created_on>
+        <dashboard display_value="Visitor Access Dashboard">7deec27893118b106a86f04bdd03d6e5</dashboard>
+        <edit_locked/>
+        <enable_data_cache>false</enable_data_cache>
+        <include_custom_insights>true</include_custom_insights>
+        <include_insight_sentiment>true</include_insight_sentiment>
+        <include_key_contributors>true</include_key_contributors>
+        <include_kpi_signals>true</include_kpi_signals>
+        <include_predictive_target>true</include_predictive_target>
+        <include_predictive_thresholds>true</include_predictive_thresholds>
+        <include_process_mining>true</include_process_mining>
+        <include_severity>true</include_severity>
+        <include_target>true</include_target>
+        <include_thresholds>true</include_thresholds>
+        <include_trends>true</include_trends>
+        <include_widget_notification>true</include_widget_notification>
+        <last_deactivated_on/>
+        <last_updated_on>2026-06-03 10:50:36</last_updated_on>
+        <po_project_id_list/>
+        <refresh_information>false</refresh_information>
+        <refresh_interval>-1</refresh_interval>
+        <requested_by_user/>
+        <schedule_repetition>false</schedule_repetition>
+        <show_ai_insights_panel>true</show_ai_insights_panel>
+        <show_insights_panel>true</show_insights_panel>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-03 10:50:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>42eec67893118b106a86f04bdd03d6ac</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_42eec67893118b106a86f04bdd03d6ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-03 11:02:59</sys_updated_on>
+        <updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user>
+        <use_custom_tab_colors>false</use_custom_tab_colors>
+        <widgets_margin>$now-global-space--sm</widgets_margin>
+    </par_dashboard_user_metadata>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</application>
+        <file_path/>
+        <instance_id>134951093b180b1c677f04e0b5e45a5a</instance_id>
+        <instance_name>dev382074</instance_name>
+        <name>par_dashboard_user_metadata_42eec67893118b106a86f04bdd03d6ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_user_metadata"><par_dashboard_user_metadata action="INSERT_OR_UPDATE"><background_color/><cache_expiration_time>0</cache_expiration_time><card_bg_image/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><created_on>2026-06-03 10:50:36</created_on><dashboard display_value="Visitor Access Dashboard">7deec27893118b106a86f04bdd03d6e5</dashboard><edit_locked/><enable_data_cache>false</enable_data_cache><include_custom_insights>true</include_custom_insights><include_insight_sentiment>true</include_insight_sentiment><include_key_contributors>true</include_key_contributors><include_kpi_signals>true</include_kpi_signals><include_predictive_target>true</include_predictive_target><include_predictive_thresholds>true</include_predictive_thresholds><include_process_mining>true</include_process_mining><include_severity>true</include_severity><include_target>true</include_target><include_thresholds>true</include_thresholds><include_trends>true</include_trends><include_widget_notification>true</include_widget_notification><last_deactivated_on/><last_updated_on>2026-06-03 10:50:36</last_updated_on><po_project_id_list/><refresh_information>false</refresh_information><refresh_interval>-1</refresh_interval><requested_by_user/><schedule_repetition>false</schedule_repetition><show_ai_insights_panel>true</show_ai_insights_panel><show_insights_panel>true</show_insights_panel><sys_class_name>par_dashboard_user_metadata</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-03 10:50:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>42eec67893118b106a86f04bdd03d6ac</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package><sys_policy/><sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope><sys_update_name>par_dashboard_user_metadata_42eec67893118b106a86f04bdd03d6ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-03 11:02:59</sys_updated_on><updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user><use_custom_tab_colors>false</use_custom_tab_colors><widgets_margin>$now-global-space--sm</widgets_margin></par_dashboard_user_metadata></record_update>]]></payload>
+        <payload_hash>1355763164</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>68bbefcc935147106a86f04bdd03d6e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-03 11:03:00</sys_created_on>
+        <sys_id>77b19ebc93118b106a86f04bdd03d673</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e8d26a42c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-03 11:03:00</sys_updated_on>
+        <type>PAR Dashboard Metadata</type>
+        <update_guid>37b19ebc21118b108301efcfd3fbe872</update_guid>
+        <update_guid_history>37b19ebc21118b108301efcfd3fbe872:1355763164,b51096f87c118b10b9c001da6315c844:2131867811,3d1096f807118b10baa71dd02cceb28f:1486935904,20109af8dd118b1056cbd9ecd421b40c:1355763164,56eec67849118b104b98251fb6c9c3ae:822637771</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f422dafc93118b106a86f04bdd03d6aa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-03 11:04:43</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_user_metadata">par_dashboard_user_metadata</sys_db_object>
+        <sys_id>0b4018d055a440e086b5944f1ef0c8b9</sys_id>
+        <sys_metadata>42eec67893118b106a86f04bdd03d6ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope>
+        <sys_scope_delete display_value="">33bf5db8b6004bb6a5db1d904f8176a1</sys_scope_delete>
+        <sys_update_name>par_dashboard_user_metadata_42eec67893118b106a86f04bdd03d6ac</sys_update_name>
+        <sys_update_version display_value="par_dashboard_user_metadata_42eec67893118b106a86f04bdd03d6ac">77b19ebc93118b106a86f04bdd03d673</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-03 11:04:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

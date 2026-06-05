@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="checked_out_time" label="Checked Out Time" language="en" table="x_2065649_visito_0_visitor_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>checked_out_time</element>
+            <help/>
+            <hint/>
+            <label>Checked Out Time</label>
+            <language>en</language>
+            <name>x_2065649_visito_0_visitor_request</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-01 13:02:14</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Checked Out Time</sys_name>
+            <sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope>
+            <sys_update_name>sys_documentation_x_2065649_visito_0_visitor_request_checked_out_time_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-01 13:02:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

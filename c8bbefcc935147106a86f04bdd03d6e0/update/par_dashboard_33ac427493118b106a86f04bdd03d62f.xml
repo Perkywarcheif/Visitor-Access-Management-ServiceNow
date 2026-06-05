@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard">
+    <par_dashboard action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_dashboard/>
+        <certified>false</certified>
+        <description>Visitor Access Management is a ServiceNow application designed to streamline and monitor visitor entry processes within an organization. The application enables users to create visitor requests, track approval status, manage visitor check-in and check-out activities, and maintain a complete audit trail of visitor movements.
+
+The system consists of two custom tables: Visitor Request and Visitor Log. Visitor Request stores visitor details such as name, email, company, host employee, visit purpose, visit date, and request status. Visitor Log automatically records key actions including approval, check-in, and check-out events along with timestamps and the user performing the action.
+
+Business Rules automate workflow activities such as updating approval information and generating visitor log records whenever the visitor status changes. Reports and dashboards provide real-time visibility into approved visitors, checked-in visitors, checked-out visitors, and overall visitor status distribution.
+
+This application improves security, enhances visitor tracking, and provides centralized visibility into visitor management operations through automated workflows, reporting, and audit logging.</description>
+        <experience/>
+        <grid>48</grid>
+        <name>Visitor Access Dashboard</name>
+        <ready_to_migrate>Not Applicable</ready_to_migrate>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-03 10:40:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>33ac427493118b106a86f04bdd03d62f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Visitor Access Dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope>
+        <sys_update_name>par_dashboard_33ac427493118b106a86f04bdd03d62f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-04 11:30:59</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_app_route/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+</record_update>

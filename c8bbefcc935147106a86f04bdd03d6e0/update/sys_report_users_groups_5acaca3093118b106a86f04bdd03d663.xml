@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Checked In Visitors">86caca3093118b106a86f04bdd03d662</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-03 10:32:35</sys_created_on>
+        <sys_id>5acaca3093118b106a86f04bdd03d663</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>86caca3093118b106a86f04bdd03d662</sys_name>
+        <sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope>
+        <sys_update_name>sys_report_users_groups_5acaca3093118b106a86f04bdd03d663</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-03 10:32:35</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>

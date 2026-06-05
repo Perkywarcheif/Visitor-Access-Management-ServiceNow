@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">b9bcc27493118b106a86f04bdd03d621</canvas>
+        <component display_value="List">7ff373544303121093711347efb8f23c</component>
+        <component_props>{"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVpbmNpZGVudDE3MzYzNjA0MzU5NjM=","id":"ZEdGaWJHVnBibU5wWkdWdWRERTNNell6TmpBME16VTVOak09MTczNjM2MDQzNjgwMQ==","numberFormat":{"customFormat":false}}],"showHeader":true,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headingLevel":2,"limit":10,"columnLimit":5,"maxCharLimit":40,"columnPreferenceKey":"","showPersonalization":false,"hideDotwalk":false,"showColumnReorder":true,"showColumnGrouping":true,"showColumnResizing":true,"showColumnFiltering":false,"showColumnSorting":true,"parFilter":"","allowAdditionalGroupByPerMetric":false,"groupBy":[],"sortBy":null,"sortByOrder":"ORDERBY","followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableCustomEmptyState":false,"componentId":"gx9ygr28","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","filterConfigurations":"@state.parFilters","columns":"visitor_name,host_employee,state,visit_date","table":"x_2065649_visito_0_visitor_request","groupByField":"","showLinks":true,"wrapCellContent":"useLineBreaksUserPref","showViewAll":false,"showInlineEditing":true,"allowListPagination":true,"lineClamp":1,"headerTitleAlignment":"start","headerTitle":"Recent Visitor Requests","showBorder":true,"showExportOption":true,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Visitor Request","sourceType":"table","tableOrViewName":"x_2065649_visito_0_visitor_request","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4XzIwNjU2NDlfdmlzaXRvXzBfdmlzaXRvcl9yZXF1ZXN0MTc4MDU3MTkzMjg2Mg==","dataCategories":["trend","group","simple"]}],"bareBorder":false,"additionalGroupByConfig":[],"showAdditionalGroupBySelector":false}</component_props>
+        <h>25</h>
+        <name/>
+        <required_translations>[{"comment":"","message":"No data available.","code":"PAR_DASHBOARD.b9bcc27493118b106a86f04bdd03d621.5fef1bc593950f106a86f04bdd03d679"},{"comment":"","message":"There are no scores available for the selected criteria. Contact your admin for more info.","code":"PAR_DASHBOARD.b9bcc27493118b106a86f04bdd03d621.5fef1bc593950f106a86f04bdd03d679"},{"comment":"","message":"Recent Visitor Requests","code":"PAR_DASHBOARD.b9bcc27493118b106a86f04bdd03d621.5fef1bc593950f106a86f04bdd03d679"},{"comment":"","message":"Visitor Request","code":"PAR_DASHBOARD.b9bcc27493118b106a86f04bdd03d621.5fef1bc593950f106a86f04bdd03d679"}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-04 11:23:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5fef1bc593950f106a86f04bdd03d679</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope>
+        <sys_update_name>par_dashboard_widget_5fef1bc593950f106a86f04bdd03d679</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-04 11:31:05</sys_updated_on>
+        <visualization/>
+        <w>37</w>
+        <widget_props/>
+        <x>8</x>
+        <y>23</y>
+    </par_dashboard_widget>
+</record_update>

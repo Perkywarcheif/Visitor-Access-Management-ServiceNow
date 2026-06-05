@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Employees who submit visitor access requests</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>ihS2f8itqM+x2JQfO5A4FkH6xxB9wzsYh1dr1lhYq8o=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2065649_visito_0.requestor</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>requestor</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-01 09:40:44</sys_created_on>
+        <sys_id>d3bba300939147106a86f04bdd03d682</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2065649_visito_0.requestor</sys_name>
+        <sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope>
+        <sys_update_name>sys_user_role_d3bba300939147106a86f04bdd03d682</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-01 09:40:44</sys_updated_on>
+    </sys_user_role>
+</record_update>

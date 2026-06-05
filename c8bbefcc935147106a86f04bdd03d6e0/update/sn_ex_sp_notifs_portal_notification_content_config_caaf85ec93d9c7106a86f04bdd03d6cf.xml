@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ex_sp_notifs_portal_notification_content_config">
+    <sn_ex_sp_notifs_portal_notification_content_config action="INSERT_OR_UPDATE">
+        <action_url/>
+        <active>true</active>
+        <actor/>
+        <advanced>false</advanced>
+        <content_params/>
+        <content_script><![CDATA[(function(current, eventName, eventParm1, eventParm2, previousActors) {
+     /**
+     * Generates a notification object based on the provided parameters.
+     * @param {GlideRecord} current - Reference to the table record
+     * @param {string} eventName - Name of the event that triggered the notification.
+     * @param {string} eventParm1 - First parameter related to the event.
+     * @param {string} eventParm2 - Second parameter related to the event.
+     * @param {Array} previousActors - List of previous actors who have triggered this notification.
+     * 
+     * @returns {Object} Notification object containing the following properties:
+     * - actor: Sys ID of the user who triggered this notification.
+     * - messageContentTemplate: A translatable template for the notification message content.
+     * - messageContentParams: An string parameters to be inserted into the message content template.
+     * - aggregatedContentTemplate: A translatable template for aggregated notification content.
+     * - aggregatedContentParams: An array of parameters to be inserted into the aggregated content template.
+     * - actionUrl: URL for navigation when the notification is clicked.
+     */
+     return {
+         actor: '',
+         messageContentTemplate: '',
+         messageContentParams: [],
+         aggregatedContentTemplate: '',
+         aggregatedContentParams: [],
+         actionUrl: ''
+     };
+ })(current, eventName, eventParm1, eventParm2, previousActors);
+]]></content_script>
+        <content_template>Hello,&#13;
+&#13;
+Your visitor request has been approved.&#13;
+&#13;
+Visitor Name: ${visitor_name}&#13;
+State: ${state}&#13;
+&#13;
+Thank you.</content_template>
+        <custom_icon/>
+        <icon>info-circle</icon>
+        <icon_background>#D3D6DC</icon_background>
+        <invert_icon_color>false</invert_icon_color>
+        <is_default>false</is_default>
+        <name>Visitor Request Approved</name>
+        <notification display_value="Visitor Request Approved">b69ff4ac9359c7106a86f04bdd03d6f8</notification>
+        <order>100</order>
+        <portals/>
+        <sys_class_name>sn_ex_sp_notifs_portal_notification_content_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-02 11:36:28</sys_created_on>
+        <sys_id>caaf85ec93d9c7106a86f04bdd03d6cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visitor Request Approved</sys_name>
+        <sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope>
+        <sys_update_name>sn_ex_sp_notifs_portal_notification_content_config_caaf85ec93d9c7106a86f04bdd03d6cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-02 11:36:28</sys_updated_on>
+        <use_custom_icon>false</use_custom_icon>
+    </sn_ex_sp_notifs_portal_notification_content_config>
+</record_update>
