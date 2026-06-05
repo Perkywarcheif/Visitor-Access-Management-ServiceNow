@@ -13,6 +13,7 @@
                 <element inactive_on_update="false" label="Checked In" sequence="400" value="checked_in"/>
             </choice>
         </element>
+        <element label="Purpose Details" max_length="255" name="purpose_details" type="string"/>
         <element label="Checked In Time" max_length="255" name="checked_in_time" type="glide_date_time"/>
         <element label="Visit End Time" max_length="255" name="visit_end_time" type="glide_time"/>
         <element label="Host Employee" max_length="32" name="host_employee" reference="sys_user" type="reference"/>
