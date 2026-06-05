@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="34db95f893994b106a86f04bdd03d6f3" label="Visitor Log" max_length="40" name="x_2065649_visito_0_visitor_log" type="collection">
+        <element label="Visitor Request" max_length="32" name="visitor_request" reference="x_2065649_visito_0_visitor_request" type="reference"/>
+        <element label="Timestamp" max_length="40" name="timestamp" type="glide_date_time"/>
+        <element label="Notes" max_length="500" name="notes" type="string"/>
+        <element choice="2" label="Action" max_length="40" name="action" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="100" value="approved"/>
+                <element inactive_on_update="false" label="Check Out" value="check_out"/>
+                <element inactive_on_update="false" label="Check In" value="check_in"/>
+            </choice>
+        </element>
+        <element label="Performed By" max_length="32" name="performed_by" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="performed_by"/>
+        </index>
+        <index name="index2">
+            <element name="visitor_request"/>
+        </index>
+    </element>
+</database>

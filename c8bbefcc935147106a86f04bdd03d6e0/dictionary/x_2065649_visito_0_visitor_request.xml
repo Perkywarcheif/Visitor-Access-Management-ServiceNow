@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="910d63c0939147106a86f04bdd03d667" label="Visitor Request" max_length="40" name="x_2065649_visito_0_visitor_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Purpose of Visit" max_length="40" name="purpose_of_visit" type="string"/>
+        <element choice="1" label="State" mandatory="true" max_length="255" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
+                <element inactive_on_update="false" label="Checked Out" sequence="500" value="checked_out"/>
+                <element inactive_on_update="false" label="Submitted" sequence="1" value="submitted"/>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="draft"/>
+                <element inactive_on_update="false" label="Requested" sequence="100" value="requested"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+                <element inactive_on_update="false" label="Checked In" sequence="400" value="checked_in"/>
+            </choice>
+        </element>
+        <element label="Checked In Time" max_length="255" name="checked_in_time" type="glide_date_time"/>
+        <element label="Visit End Time" max_length="255" name="visit_end_time" type="glide_time"/>
+        <element label="Host Employee" max_length="32" name="host_employee" reference="sys_user" type="reference"/>
+        <element label="Approved By" max_length="32" name="approved_by" reference="sys_user" type="reference"/>
+        <element label="Security Notes" max_length="40" name="security_notes" type="string"/>
+        <element label="Badge Number" max_length="40" name="badge_number" type="string"/>
+        <element label="Visitor Company" max_length="40" name="visitor_company" type="string"/>
+        <element label="Visit Date" max_length="255" name="visit_date" type="glide_date"/>
+        <element label="ID Verified" max_length="255" name="id_verified" type="boolean"/>
+        <element label="Visitor Email" max_length="40" name="visitor_email" type="string"/>
+        <element label="Visit Start Time" max_length="255" name="visit_start_time" type="glide_time"/>
+        <element label="Visitor Name" max_length="40" name="visitor_name" type="string"/>
+        <element label="Checked Out Time" max_length="255" name="checked_out_time" type="glide_date_time"/>
+        <index name="index">
+            <element name="approved_by"/>
+        </index>
+        <index name="index2">
+            <element name="host_employee"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="DELETE">
+        <dashboard display_value="Visitor Access Dashboard">7deec27893118b106a86f04bdd03d6e5</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-03 10:50:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a2eec67893118b106a86f04bdd03d6b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope>
+        <sys_update_name>par_dashboard_canvas_a2eec67893118b106a86f04bdd03d6b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-03 10:50:37</sys_updated_on>
+    </par_dashboard_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</application>
+        <file_path/>
+        <instance_id>134951093b180b1c677f04e0b5e45a5a</instance_id>
+        <instance_name>dev382074</instance_name>
+        <name>par_dashboard_canvas_a2eec67893118b106a86f04bdd03d6b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas"><par_dashboard_canvas action="INSERT_OR_UPDATE"><dashboard display_value="Visitor Access Dashboard">7deec27893118b106a86f04bdd03d6e5</dashboard><dashboard_tab/><layout>[]</layout><sys_class_name>par_dashboard_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-06-03 10:50:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a2eec67893118b106a86f04bdd03d6b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package><sys_policy/><sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope><sys_update_name>par_dashboard_canvas_a2eec67893118b106a86f04bdd03d6b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-06-03 10:50:37</sys_updated_on></par_dashboard_canvas></record_update>]]></payload>
+        <payload_hash>1406737216</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>68bbefcc935147106a86f04bdd03d6e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-03 10:50:38</sys_created_on>
+        <sys_id>26eec67893118b106a86f04bdd03d6b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19e8d1b51ae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-03 10:50:38</sys_updated_on>
+        <type>PAR Dashboard Page Canvas</type>
+        <update_guid>e2eec67830118b10c98ce550013500b6</update_guid>
+        <update_guid_history>e2eec67830118b10c98ce550013500b6:1406737216</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">55125afc93118b106a86f04bdd03d634</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-03 11:04:29</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_canvas">par_dashboard_canvas</sys_db_object>
+        <sys_id>44729320b18249969a63d5c10f630b24</sys_id>
+        <sys_metadata>a2eec67893118b106a86f04bdd03d6b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Visitor Access Management" source="x_2065649_visito_0">c8bbefcc935147106a86f04bdd03d6e0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Visitor Access Management">c8bbefcc935147106a86f04bdd03d6e0</sys_scope>
+        <sys_scope_delete display_value="">33bf5db8b6004bb6a5db1d904f8176a1</sys_scope_delete>
+        <sys_update_name>par_dashboard_canvas_a2eec67893118b106a86f04bdd03d6b4</sys_update_name>
+        <sys_update_version display_value="par_dashboard_canvas_a2eec67893118b106a86f04bdd03d6b4">26eec67893118b106a86f04bdd03d6b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-03 11:04:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
