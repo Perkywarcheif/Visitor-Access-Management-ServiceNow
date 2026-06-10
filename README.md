@@ -245,29 +245,51 @@ Successfully tested:
 
 ### Application Overview
 
-![Application Overview](screenshots/01-app-engine-overview.png)
+![Application Overview](screenshots/01-app-overview.png)
 
 ### Visitor Request Form
 
-![Visitor Request Form](screenshots/03-visitor-request-form.png)
+![Visitor Request Form](screenshots/02-visitor-request-form.png)
 
-### UI Action Buttons
+### Workflow Actions
 
-![UI Actions](screenshots/04-ui-actions-buttons.png)
+![Workflow Actions](screenshots/03-workflow-actions.png)
 
-### Visitor Logs
+### Visitor Activity Logs
 
-![Visitor Logs](screenshots/06-visitor-log-table.png)
+![Visitor Activity Logs](screenshots/04-visitor-activity-logs.png)
 
-### Email Notifications
+### Email Notification Configuration
 
-![Notifications](screenshots/07-email-notification.png)
+![Email Notification Configuration](screenshots/05-email-notification-1.png.png)
 
-### Dashboard
+### Email Notification Trigger
 
-![Dashboard](screenshots/11-dashboard-overview.png)
+![Email Notification Trigger](screenshots/05-email-notification-2.png)
 
----
+### Email Notification Content
+
+![Email Notification Content](screenshots/05-email-notification-3.png)
+
+### Email Outbox
+
+![Email Outbox](screenshots/06-email-outbox.png)
+
+### Visitor Status Distribution Report
+
+![Visitor Status Distribution](screenshots/07-status-distribution-report.png)
+
+### Recent Visitor Requests
+
+![Recent Visitor Requests](screenshots/08-recent-visitor-requests.png)
+
+### Total Visitor Requests KPI
+
+![Total Visitor Requests KPI](screenshots/09-total-visitor-requests.png)
+
+### Logic & Automation
+
+![Logic & Automation](screenshots/10-logic-and-automation-flow.png)
 
 ## Project Outcome
 
